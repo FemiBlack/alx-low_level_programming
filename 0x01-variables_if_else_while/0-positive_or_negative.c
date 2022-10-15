@@ -4,9 +4,9 @@
 /* more headers goes there */
 
 /**
- * Main: Entry Function
+ * main - Entry Function
  *
- * Returns 0 on SEGTERM
+ * Return: 0 on SEGTERM
  */
 int main(void)
 {
