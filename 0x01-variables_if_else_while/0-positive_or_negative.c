@@ -3,7 +3,11 @@
 #include <stdio.h>
 /* more headers goes there */
 
-/* betty style doc for function main goes there */
+/**
+ * Main: Entry Function
+ *
+ * Returns 0 on SEGTERM
+ */
 int main(void)
 {
 	int n;
